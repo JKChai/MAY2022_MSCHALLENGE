@@ -14,18 +14,14 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 Learn about the Azure Cosmos DB SQL API and determine if it is a good fit for your application.
 
-<style>
-smalltitle { font-weight:700;font-size:20px }
-</style>
-
-<smalltitle>Learning objectives</smalltitle>
+<span style="font-weight:700;font-size:20px">Learning objectives</span>
 
 After completing this module, you’ll be able to:
 
 * Evaluate whether Azure Cosmos DB SQL API is the right database for your application.
 * Describe how the features of the Azure Cosmos DB SQL API are appropriate for modern applications.
 
-<smalltitle>Prerequisites</smalltitle>
+<span style="font-weight:700;font-size:20px">Prerequisites</span>
 
 Before starting this module, you should have experience of building cloud applications with Microsoft C# or a similar programming language.
 
