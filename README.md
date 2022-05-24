@@ -9,24 +9,20 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 # Azure Cosmos DB Developer Challenge
 
 > Design and implement data models; design and implement data distribution; integrate an Azure Cosmos DB solution; optimize an Azure Cosmos DB solution; and maintain an Azure Cosmos DB solution.
-
-> "Azure Cosmos DB is Microsoft's proprietary globally distributed, multi-model database service "for managing data at planet-scale" launched in May 2017.[https://azure.microsoft.com/en-us/services/cosmos-db/#overview] It is schema-agnostic, horizontally scalable, and generally classified as a NoSQL database." from wikipedia.
+> "Azure Cosmos DB is Microsoft's proprietary globally distributed, multi-model database service "for managing data at planet-scale" launched in May 2017.[1](https://azure.microsoft.com/en-us/services/cosmos-db/#overview) It is schema-agnostic, horizontally scalable, and generally classified as a NoSQL database." from wikipedia.
 
 ## Introduction to Azure Cosmos DB SQL API
 
 Learn about the Azure Cosmos DB SQL API and determine if it is a good fit for your application.
 
-<style>p{color:red;}</style>
-<p><em>foo</em></p>
-
-<p>Learning objectives</p>
+<b>Learning objectives</b>
 
 After completing this module, you’ll be able to:
 
 * Evaluate whether Azure Cosmos DB SQL API is the right database for your application.
 * Describe how the features of the Azure Cosmos DB SQL API are appropriate for modern applications.
 
-<p>Prerequisites</p>
+<b>Prerequisites</b>
 
 Before starting this module, you should have experience of building cloud applications with Microsoft C# or a similar programming language.
 
