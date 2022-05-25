@@ -153,8 +153,7 @@ Diagram showing various items stored in a container
 
 ### Partitioning & Partition Keys
 
-[![Image layer 1](./assets/imglayer1.png)](https://www.youtube.com/watch?v=hjMx8EuyZJ8)
-(https://www.microsoft.com/en-us/videoplayer/embed/RE4OAlA?postJsllMsg=true)
+[![Image layer 1](./assets/imglayer1.png)](https://www.microsoft.com/en-us/videoplayer/embed/RE4OAlA?postJsllMsg=true)
 
 Every Azure Cosmos DB SQL API container is required to specify a partition key path. Behind the scenes, Azure Cosmos DB SQL API uses this path to logically partition data using partition key values. For example, consider the following JSON document:
 
