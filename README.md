@@ -54,18 +54,22 @@ Let's start with a few definitions and a quick tour through Azure Cosmos DB SQL 
 
 Developers require new kinds of databases that can address the needs of modern apps. NoSQL databases were designed to address these needs and unique challenges such as:
 
-High volumes of data
-Data with many different sources and forms
-Dynamic data schemas to store different types of data
-Using high-velocity and/or real-time data
+* High volumes of data
+* Data with many different sources and forms
+* Dynamic data schemas to store different types of data
+* Using high-velocity and/or real-time data
+
 NoSQL databases are defined by common characteristics they share rather than a specific formal definition. These characteristics include:
 
-Data store is non-relational
-Designed for scale-out
-Does not enforce a specific schema
+* Data store is non-relational
+* Designed for scale-out
+* Does not enforce a specific schema
+
 NoSQL databases generally do not enforce relational constraints or put locks on data, making writes fast. They are also often designed for horizontally scale via sharding or partitioning, which allows them to maintain high-performance regardless of size.
 
 While there are many NoSQL data models, four broad data model families are commonly used when modeling data in a NoSQL database:
+
+![Diagram showing various NoSQL models including; a key-value, document, graph, and column-family store](https://docs.microsoft.com/en-us/learn/wwl-data-ai/introduction-to-azure-cosmos-db-sql-api/media/2-nosql-db.png)
 
 Diagram showing various NoSQL models including; a key-value, document, graph, and column-family store
 
