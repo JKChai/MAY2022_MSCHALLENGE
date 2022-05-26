@@ -22,7 +22,8 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Plan and Implement Cosmos DB SQL API
 
-- [] Plan Resources Requirement
-
+- [x] Plan Resources Requirement
+- [x] Configure Azure Cosmos DB SQL API database and containers
+- [ ]
 
 
