@@ -18,4 +18,11 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 ## Get Started with Cosmos DB SQL API
 
 - [x] Introduction to Azure Cosmos DB SQL API 
+- [x] Try Azure Cosmos DB SQL API
+
+## Plan and Implement Cosmos DB SQL API
+
+- [] Plan Resources Requirement
+
+
 
