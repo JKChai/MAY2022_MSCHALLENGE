@@ -134,28 +134,31 @@ Now that we know the basics of Azure Cosmos DB, let's see what resources and inf
 
 To begin using Azure Cosmos DB, you will need to create various resources in Azure such as accounts, databases, containers, and items.
 
+![Diagram showing how an Azure Cosmos DB SQL API account is the parent resource to a database, which is itself a parent resource to a container](https://docs.microsoft.com/en-us/learn/wwl-data-ai/introduction-to-azure-cosmos-db-sql-api/media/3-resource-hierarchy.png)
 
-Diagram showing how an Azure Cosmos DB SQL API account is the parent resource to a database, which is itself a parent resource to a container
+### Accounts
 
-Accounts
-Accounts are the fundamental units of distribution and high availability. At the account level, you can configure the region[s] for your data in Azure Cosmos DB SQL API. Accounts also contain the globally unique DNS name used for API requests. You can also set the default consistency level for requests at the account. You can manage or create accounts using the Azure portal, Azure Resource Manager templates, the Azure CLI, or Azure PowerShell.
+**Accounts** are the fundamental units of distribution and high availability. At the account level, you can configure the region[s] for your data in Azure Cosmos DB SQL API. Accounts also contain the globally unique DNS name used for API requests. You can also set the default consistency level for requests at the account. You can manage or create accounts using the Azure portal, Azure Resource Manager templates, the Azure CLI, or Azure PowerShell.
 
-Databases
-Each account can contain one or more Databases. A database is a logical unit of management for containers in Azure Cosmos DB SQL API.
+### Databases
 
-Containers
-Containers are the fundamental unit of scalability in Azure Cosmos DB SQL API. With Azure Cosmos DB, you provision throughput at the container level. You can also optionally configure an indexing policy or a default time-to-live value at the container level. Azure Cosmos DB SQL API will automatically and transparently partition the data in a container.
+Each account can contain one or more **Databases**. A database is a logical unit of management for containers in Azure Cosmos DB SQL API.
 
-Items
-The SQL API for Azure Cosmos DB stores individual documents in JSON format as items within the container. Azure Cosmos DB SQL API natively supports JSON files and can provide fast and predictable performance because write operations on JSON documents are atomic.
+### Containers
 
-Diagram showing various items stored in a container
+**Containers** are the fundamental unit of scalability in Azure Cosmos DB SQL API. With Azure Cosmos DB, you provision throughput at the container level. You can also optionally configure an indexing policy or a default time-to-live value at the container level. Azure Cosmos DB SQL API will automatically and transparently partition the data in a container.
+
+### Items
+
+The SQL API for Azure Cosmos DB stores individual documents in JSON format as *items* within the container. Azure Cosmos DB SQL API natively supports JSON files and can provide fast and predictable performance because write operations on JSON documents are atomic.
+
+![Diagram showing various items stored in a container](https://docs.microsoft.com/en-us/learn/wwl-data-ai/introduction-to-azure-cosmos-db-sql-api/media/3-item-hierarchy.png)
 
 ### Partitioning & Partition Keys
 
 [![Image layer 1](assets/imglayer1.png)](https://www.microsoft.com/en-us/videoplayer/embed/RE4OAlA?postJsllMsg=true)
 
-Every Azure Cosmos DB SQL API container is required to specify a partition key path. Behind the scenes, Azure Cosmos DB SQL API uses this path to logically partition data using partition key values. For example, consider the following JSON document:
+Every Azure Cosmos DB SQL API container is required to specify a **partition key path**. Behind the scenes, Azure Cosmos DB SQL API uses this path to logically partition data using **partition key values**. For example, consider the following JSON document:
 
 ```JSON
 {
@@ -189,6 +192,6 @@ Every Azure Cosmos DB SQL API container is required to specify a partition key p
 }
 ```
 
-If your container specifies a partition key path of /department/name, then the partition key value of this document would be information-technology. Behind the scenes, Azure Cosmos DB SQL API automatically manages the physical resources necessary to support your data workload.
+If your container specifies a partition key **path** of `/department/name`, then the partition **key** value of this document would be `information-technology`. Behind the scenes, Azure Cosmos DB SQL API automatically manages the physical resources necessary to support your data workload.
 
-Selecting a partition key path for a container can be one of the most important design decisions for a new workload. Review the choosing a partition key documentation for a deeper technical explanation and best practices.
+Selecting a partition key path for a container can be one of the most important design decisions for a new workload. Review the choosing a [partition key documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#choose-partitionkey) for a deeper technical explanation and best practices.
