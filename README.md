@@ -24,6 +24,11 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 - [x] Plan Resources Requirement
 - [x] Configure Azure Cosmos DB SQL API database and containers
-- [ ]
+- [x] Move Data In & Out of Azure Cosmos DB SQL API
+
+## Connect to Azure Cosmos DB SQL API with the SDK
+
+- [x] Use the Azure Cosmos DB SQL API SDK
+- [ ] Configure the Azure Cosmos DB SQL API SDK
 
 
