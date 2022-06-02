@@ -358,7 +358,7 @@ Use the free resources provided in the lab to complete the exercises in this uni
 
 Microsoft provides this lab experience and related content for educational purposes. All presented information is owned by Microsoft and intended solely for learning about the covered products and services in this Microsoft Learn module.
 
-[Check this out to launch the lab](https://docs.microsoft.com/en-us/learn/modules/use-azure-cosmos-db-sql-api-sdk/7-exercise-connect-to)
+[Check this out to launch the lab](https://docs.microsoft.com/en-us/learn/modules/configure-azure-cosmos-db-sql-api-sdk/6-exercise-for-offline-development)
 
 * Create new Azure Cosmos DB account using the SQL API
 * Use Data Explorer to create a database, a container, and 2 items
