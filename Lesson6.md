@@ -373,7 +373,7 @@ CosmosClientOptions options = new CosmosClientOptions()
 
 ---
 
-# Exercise: Migrate existing data using Azure Data Factory
+# Exercise: Connect to Azure Cosmos DB SQL API with the SDK
 
 This unit includes a lab to complete.
 
