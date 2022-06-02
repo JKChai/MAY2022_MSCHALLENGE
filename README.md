@@ -29,6 +29,15 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 ## Connect to Azure Cosmos DB SQL API with the SDK
 
 - [x] Use the Azure Cosmos DB SQL API SDK
-- [ ] Configure the Azure Cosmos DB SQL API SDK
+- [x] Configure the Azure Cosmos DB SQL API SDK
 
+## Access and manage data with the Azure Cosmos DB SQL API SDKs
 
+- [x] Implement Azure Cosmos DB SQL API point operations
+- [x] Perform cross-document transactional operations with the Azure Cosmos DB SQL API
+- [x] Process bulk data in Azure Cosmos DB SQL API
+
+## Execute queries in Azure Cosmos DB SQL API
+
+- [ ] Query the Azure Cosmos DB SQL API
+- [ ] Author complex queries with the Azure Cosmos DB SQL API
