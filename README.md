@@ -39,5 +39,10 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Execute queries in Azure Cosmos DB SQL API
 
-- [ ] Query the Azure Cosmos DB SQL API
-- [ ] Author complex queries with the Azure Cosmos DB SQL API
+- [x] Query the Azure Cosmos DB SQL API
+- [x] Author complex queries with the Azure Cosmos DB SQL API
+
+## Define and implement an indexing strategy for Azure Cosmos DB SQL API
+
+- [ ] Define indexes in Azure Cosmos DB SQL API
+- [ ] Customize indexes in Azure Cosmos DB SQL API
