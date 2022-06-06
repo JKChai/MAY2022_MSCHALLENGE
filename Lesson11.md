@@ -36,11 +36,11 @@ For this module, we will focus on a fictional container of **products** with the
 
 | Property | Value |
 |-----|-----|
-| id | String | unique identifier |
-| categoryId | String | partition key
+| id | String \| unique identifier |
+| categoryId | String \| partition key |
 | categoryName | String |
 | sku | String |
 | description | String |
 | price | Number |
-| tags | Array | [ String id, String name ] |
+| tags | Array \| [ String id, String name ] |
 
