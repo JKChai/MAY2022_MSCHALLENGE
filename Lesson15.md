@@ -224,11 +224,31 @@ Microsoft provides this lab experience and related content for educational purpo
 
 When you finish the exercise, end the lab to close the VM. Don't forget to come back and complete the knowledge check to earn points for completing this module!
 
-
 ---
 
 # Knowledge check
 
+1. Which method of the Container class is used to create a new change feed estimator?
+
+- [ ] GetChangeFeedProcessorBuilder<>
+- [x] GetChangeFeedEstimatorBuilder
+> That's correct. The GetChangeFeedEstimatorBuilder method constructs an estimator that will run side by side with a processor.
+- [ ] GetChangeFeedIterator<>
+
+2. Which method of the ChangeFeedProcessor class should you invoke to start consuming changes from the change feed?
+
+- [ ] GetChangeFeedProcessorBuilder<>
+- [x] StartAsync
+> That's correct. This method is a member of the ChangeFeedProcessor class and is invoked to start consuming changes from the change feed.
+- [ ] Build
+
 ---
 
 # Summary
+
+In this module, you implemented a basic change feed processor to handle batches of changes to an Azure Cosmos DB SQL API container.
+
+Now that you have completed this module, you can:
+
+* Author a change feed processor and delegate in the .NET SDK
+* Author a sidecar change feed estimator in the .NET SDK
