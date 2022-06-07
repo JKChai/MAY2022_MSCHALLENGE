@@ -218,7 +218,6 @@ Microsoft provides this lab experience and related content for educational purpo
 
 When you finish the exercise, end the lab to close the VM. Don't forget to come back and complete the knowledge check to earn points for completing this module!
 
-
 ---
 
 # Knowledge Check

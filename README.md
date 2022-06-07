@@ -44,5 +44,11 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Define and implement an indexing strategy for Azure Cosmos DB SQL API
 
-- [ ] Define indexes in Azure Cosmos DB SQL API
-- [ ] Customize indexes in Azure Cosmos DB SQL API
+- [x] Define indexes in Azure Cosmos DB SQL API
+- [x] Customize indexes in Azure Cosmos DB SQL API
+
+## Integrate Azure Cosmos DB SQL API with Azure services
+
+- [x] Consume an Azure Cosmos DB SQL API change feed using the SDK
+- [ ]
+- [ ]
