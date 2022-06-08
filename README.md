@@ -51,4 +51,9 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 - [x] Consume an Azure Cosmos DB SQL API change feed using the SDK
 - [x] Handle events with Azure Functions and Azure Cosmos DB SQL API change feed
-- [ ] 
+- [x] Search Azure Cosmos DB SQL API data with Azure Cognitive Search
+
+## Implement a data modeling and partitioning strategy for Azure Cosmos DB SQL API
+
+- [ ] Implement a non-relational data model
+- [ ] Design a data partitioning strategy

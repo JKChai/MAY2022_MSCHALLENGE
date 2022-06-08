@@ -320,17 +320,14 @@ public static async Task Run(HttpRequest request, IAsyncCollector<Product> outpu
 
 # Exercise: Process Azure Cosmos DB SQL API data using Azure Functions
 
-This unit includes a lab to complete.
+> This unit includes a lab to complete.
+>
+> Use the free resources provided in the lab to complete the exercises in this unit. You will not be charged.
+> 
+> Microsoft provides this lab experience and related content for educational purposes. All presented information is owned by Microsoft and intended solely for learning about the covered products and services in this Microsoft Learn module.
 
-Use the free resources provided in the lab to complete the exercises in this unit. You will not be charged.
-
-Microsoft provides this lab experience and related content for educational purposes. All presented information is owned by Microsoft and intended solely for learning about the covered products and services in this Microsoft Learn module.
 
 [Check this out to launch the lab](https://docs.microsoft.com/en-us/learn/modules/handle-events-azure-functions-azure-cosmos-db-sql-api-change-feed/5-exercise-archive-data-using-azure-functions)
-
-* Create new Azure Cosmos DB account using the SQL API
-* Use Data Explorer to create a database, a container, and 2 items
-* Query Database for the items created
 
 > :grey_exclamation: Note
 >
