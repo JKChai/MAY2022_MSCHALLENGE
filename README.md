@@ -50,5 +50,5 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 ## Integrate Azure Cosmos DB SQL API with Azure services
 
 - [x] Consume an Azure Cosmos DB SQL API change feed using the SDK
-- [ ]
-- [ ]
+- [x] Handle events with Azure Functions and Azure Cosmos DB SQL API change feed
+- [ ] 
