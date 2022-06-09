@@ -55,5 +55,7 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Implement a data modeling and partitioning strategy for Azure Cosmos DB SQL API
 
-- [ ] Implement a non-relational data model
-- [ ] Design a data partitioning strategy
+- [x] Implement a non-relational data model
+- [x] Design a data partitioning strategy
+
+## 
