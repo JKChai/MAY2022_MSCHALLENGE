@@ -60,6 +60,6 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Optimize query and operation performance in Azure Cosmos DB SQL API
 
-- [ ] Customize an indexing policy in Azure Cosmos DB SQL API
+- [x] Customize an indexing policy in Azure Cosmos DB SQL API
 - [ ] Measure index performance in Azure Cosmos DB SQL API
 - [ ] Implement integrated cache in Azure Cosmos DB SQL API
