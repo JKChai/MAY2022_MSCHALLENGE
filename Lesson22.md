@@ -1,0 +1,1 @@
+# Implement integrated cache in Azure Cosmos DB SQL API

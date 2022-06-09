@@ -1,0 +1,1 @@
+# Measure index performance in Azure Cosmos DB SQL API
