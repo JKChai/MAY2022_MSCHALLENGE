@@ -66,4 +66,7 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Monitor and troubleshoot an Azure Cosmos DB SQL API solution
 
-- [ ] 
+- [x] Measure performance in Azure Cosmos DB SQL API
+- [ ] Monitor responses and events in Azure Cosmos DB SQL API
+- [ ]
+- [ ]
