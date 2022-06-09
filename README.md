@@ -62,4 +62,8 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 - [x] Customize an indexing policy in Azure Cosmos DB SQL API
 - [x] Measure index performance in Azure Cosmos DB SQL API
-- [ ] Implement integrated cache in Azure Cosmos DB SQL API
+- [x] Implement integrated cache in Azure Cosmos DB SQL API
+
+## Monitor and troubleshoot an Azure Cosmos DB SQL API solution
+
+- [ ] 
