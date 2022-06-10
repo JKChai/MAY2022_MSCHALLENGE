@@ -69,4 +69,9 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 - [x] Measure performance in Azure Cosmos DB SQL API
 - [x] Monitor responses and events in Azure Cosmos DB SQL API
 - [x] Implement backup and restore for Azure Cosmos DB SQL API
-- [ ] Implement security in Azure Cosmos DB SQL API
+- [x] Implement security in Azure Cosmos DB SQL API
+
+## Manage an Azure Cosmos DB SQL API solution using DevOps practices
+
+- [ ] Create resource template for Azure Cosmos DB SQL API
+- [ ] Write management scripts for Azure Cosmos DB SQL API
