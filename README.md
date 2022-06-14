@@ -78,5 +78,9 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 
 ## Create server-side programming constructs in Azure Cosmos DB SQL API
 
-- [ ] Build multi-item transactions with the Azure Cosmos DB SQL API
-- [ ] Expand query and transaction functionality in Azure Cosmos DB SQL API
+- [x] Build multi-item transactions with the Azure Cosmos DB SQL API
+- [x] Expand query and transaction functionality in Azure Cosmos DB SQL API
+
+---
+
+# COMPLETED CHALLENGE
