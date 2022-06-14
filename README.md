@@ -74,4 +74,9 @@ Taking this Microsoft challenge as one of the ways to develop myself as part of 
 ## Manage an Azure Cosmos DB SQL API solution using DevOps practices
 
 - [x] Create resource template for Azure Cosmos DB SQL API
-- [ ] Write management scripts for Azure Cosmos DB SQL API
+- [x] Write management scripts for Azure Cosmos DB SQL API
+
+## Create server-side programming constructs in Azure Cosmos DB SQL API
+
+- [ ] Build multi-item transactions with the Azure Cosmos DB SQL API
+- [ ] Expand query and transaction functionality in Azure Cosmos DB SQL API
